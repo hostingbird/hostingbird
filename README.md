@@ -1,4 +1,4 @@
-![logo](https://github.com/hostingbird/hostingbird/blob/main/Shivam%20Kumar.png)
+![logo](https://github.com/hostingbird/hostingbird/blob/main/Shivam.png)
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Working as Web Developer 😊</h3>
 
