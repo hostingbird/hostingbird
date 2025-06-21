@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently doing **BCA 2nd year**
 
-- 🌱 I’m currently learning **MERN , DSA , JAVA**
+- 🌱 I’m currently learning **MERN ,PHP , DSA , C , OOPS**
 
 - 👯 I’m looking to collaborate on **Projects like (E-Commerce Modal , Management Portals , Custom Components and more)**
 
@@ -16,7 +16,7 @@
 
 - 📝 I not currently regularly write articles on [any channel/page](any channel/page)
 
-- 💬 Ask me about **HTML , CSS , BOOTSTRAP ,TAILWIND , NODE , REACT , PHP , MYSQL**
+- 💬 Ask me about **HTML , CSS , BOOTSTRAP ,TAILWIND , NODE , REACT , PHP , MYSQL , C , C++**
 
 - 📫 How to reach me **lovekashyp4@gmail.com**
 
